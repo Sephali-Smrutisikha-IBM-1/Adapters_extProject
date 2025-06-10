@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/Sephali-Smrutisikha-IBM-1
   gitUsername: Sephali-Smrutisikha-IBM-1
   gitBranch: main
+- name: Kafka13
+  gitServerName: adp
+  gitUrl: https://github.com/Sephali-Smrutisikha-IBM-1
+  gitUsername: Sephali-Smrutisikha-IBM-1
+  gitBranch: main
